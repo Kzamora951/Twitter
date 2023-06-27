@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "twitter-api-client": "^1.6.1",
-    "twitter-api-v2": "^1.14.2"
+    "twitter-api-v2": "^1.15.0"
   }
 }
